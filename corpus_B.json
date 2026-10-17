@@ -1,0 +1,50 @@
+[
+  {
+    "id": "B01",
+    "text_raw": "Erreur E404 sur Python 3.11."
+  },
+  {
+    "id": "B02",
+    "text_raw": "Contact : lina@example.test ; tel : 0612345678 ; erreur E404."
+  },
+  {
+    "id": "B03",
+    "text_raw": "Le paiement de 150 DH ne passe pas."
+  },
+  {
+    "id": "B04",
+    "text_raw": "Les connexions échouent depuis la mise à jour."
+  },
+  {
+    "id": "B05",
+    "text_raw": "Le service ne fonctionne plus."
+  },
+  {
+    "id": "B06",
+    "text_raw": "Message E403 ; version 2.1."
+  },
+  {
+    "id": "B07",
+    "text_raw": "Documentation https://exemple.test/aide"
+  },
+  {
+    "id": "B08",
+    "text_raw": " ERREUR E404 SUR PYTHON 3.11. "
+  },
+  {
+    "id": "B09",
+    "text_raw": ""
+  },
+  {
+    "id": "B10",
+    "text_raw": "Les fichiers sont supprimés après fermeture."
+  },
+  {
+    "id": "B11",
+    "text_raw": "Tel : 0712345678 ; contact : sami@example.test."
+  },
+  {
+    "id": "B12",
+    "text_raw": "Échec sur l’application à 08:30."
+  }
+]
